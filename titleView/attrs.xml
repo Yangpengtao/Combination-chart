@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TitleView">
+
+        <attr name="leftTextColor" format="color" />
+        <attr name="leftTextSize" format="dimension" />
+        <attr name="leftText" format="string" />
+
+        <attr name="rightTextColor" format="color" />
+        <attr name="rightTextSize" format="dimension" />
+        <attr name="rightText" format="string" />
+
+        <attr name="centerTextColor" format="color" />
+        <attr name="centerTextSize" format="dimension" />
+        <attr name="centerText" format="string" />
+
+        <attr name="leftImgButton" format="reference" />
+        <attr name="leftImgVisible" format="boolean" />
+        <attr name="leftTvVisible" format="boolean" />
+
+        <attr name="centerImgButton" format="reference" />
+        <attr name="centerImgVisible" format="boolean" />
+        <attr name="centerTvVisible" format="boolean" />
+
+        <attr name="rightImgButton" format="reference" />
+        <attr name="rightImgVisible" format="boolean" />
+        <attr name="rightTvVisible" format="boolean" />
+
+
+        <attr name="leftImgIsBack" format="boolean" />
+
+    </declare-styleable>
+</resources>
