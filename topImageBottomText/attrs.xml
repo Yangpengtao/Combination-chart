@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="homeItem">
+        <attr name="topTextColor" format="color" />
+        <attr name="topTextSize" format="dimension" />
+        <attr name="topText" format="string" />
+        <attr name="bottomTextColor" format="color" />
+        <attr name="bottomTextSize" format="dimension" />
+        <attr name="bottomText" format="string" />
+        <attr name="topImg" format="reference" />
+        <attr name="imgVisible" format="boolean" />
+        <attr name="topTvVisible" format="boolean" />
+    </declare-styleable>
+    
+</resources>
